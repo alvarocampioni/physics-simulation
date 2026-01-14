@@ -2,8 +2,8 @@ import pygame
 from ui.theme import Theme
 
 # dimensoes
-SCREEN_WIDTH = 1920
-SCREEN_HEIGHT = 1280 
+SCREEN_WIDTH = 1280
+SCREEN_HEIGHT = 920 
 
 # cores
 WHITE = (255, 255, 255)
